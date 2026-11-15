@@ -1,0 +1,51 @@
+# Photo credits
+
+All photos are from Wikimedia Commons and are used under their respective licences.
+Each location also shows its credit in-game.
+
+- **جامع الفنا** (jemaa-el-fnaa, /photos/896933718970.jpg) — Boris Macek, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ADjemaa_el_Fna.jpg
+- **الكتبية** (koutoubia, /photos/a992eff1c8e2.jpg) — Miguel Discart, CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File%3AKoutoubia_2016-01-06_17-39-33_ILCE-6000_DSC01178_(45790345604).jpg
+- **آيت بن حدو** (ait-benhaddou, /photos/f40c4411dd79.jpg) — Petar Milošević, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AKsar_A%C3%AFt_Benhaddou%2C_Marocco_(%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93).jpg
+- **شفشاون** (chefchaouen, /photos/2839680fe5c9.jpg) — Badr Rachadi, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AChefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg
+- **فاس البالي** (fes-el-bali, /photos/037395e589ff.jpg) — Bjørn Christian Tørrissen, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AFes_Bab_Bou_Jeloud_2011.jpg
+- **وليلي** (volubilis, /photos/ec18e6ffe437.jpg) — Subhros, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AVolubilis_Longshot_II.jpg
+- **باب المنصور** (bab-mansour, /photos/65b7757afeb5.jpg) — Robert Prazeres, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ABab_mansour_DSCF5811.jpg
+- **الصويرة** (essaouira, /photos/686ffff3b998.jpg) — Holger Uwe Schmitt, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3A%22Ein_bemerkenswertes_historisches_Denkmal%22._16.jpg
+- **طنجة** (tangier-medina, /photos/b6f4e729faba.jpg) — Ifni95, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ATanger_cor.jpg
+- **مسجد الحسن الثاني** (hassan-ii-mosque, /photos/23931f99a9a9.jpg) — Elgaard, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ACasablancaSurf.jpg
+- **صومعة حسان** (hassan-tower, /photos/2b13e15db589.jpg) — This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would m, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ASW_SE_Top_Hassan_Tower_Morocco_Nov25_A7CR_08873.jpg
+- **مرزوكة** (merzouga, /photos/c69860eb5710.jpg) — Jorge Franganillo, CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3AMerzouga_2024.jpg
+- **غور تودغى** (todgha-gorge, /photos/47763eb14bb4.jpg) — Holger Uwe Schmitt, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3A%22Ein_beeindruckendes_Naturwunder%22%2C_17.jpg
+- **غور دادس** (dades-gorge, /photos/e7b0f9dcd01c.jpg) — Holger Uwe Schmitt, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3A%22Spektakul%C3%A4re_Haarnadelkurven%22._04.jpg
+- **قصبة تاوريرت** (taourirt-kasbah, /photos/7d8585e3037b.jpg) — Petar Milošević, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AKsar_of_Taourirt%2C_Ouarzazate%2C_Morocco_(%D9%82%D8%B5%D8%A8%D8%A9_%D8%AA%D8%A7%D9%88%D8%B1%D9%8A%D8%B1%D8%AA%2C_%E2%B5%9C%E2%B4%B0%E2%B5%A1%E2%B5%94%E2%B5%89%E2%B5%94%E2%B5%9C).jpg
+- **أكادير** (agadir-beach, /photos/b048bb233512.jpg) — Abdeaitali, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ASouth_view_sea_side_from_Kasbah_of_Agadir_Oufella_(cropped).jpg
+- **أصيلة** (asilah, /photos/2d7edf060550.jpg) — Robert Prazeres, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AAsilah_seafront.jpg
+- **تطوان** (tetouan-medina, /photos/21380c805426.jpg) — Ideophagous, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ATetouan%2C_near_the_Medina_and_Qasba.jpg
+- **إفران** (ifrane, /photos/23756868332b.jpg) — Bernard Gagnon, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AIfrane_lion.jpg
+- **إمليل** (imlil, /photos/a56c41d1e742.jpg) — Erokhin, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AImlil_and_its_valley_and_way_to_Jbel_Toubkal_03.jpg
+- **أوكايمدن** (oukaimeden, /photos/67aff065505c.jpg) — MED.BENALLA, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AOne_of_the_scenic_locations_of_the_Oukaimeden_village.JPG
+- **تافراوت** (tafraout, /photos/d8b8c1407ff6.jpg) — rob Stoeltje, CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ATafraoute.jpg
+- **لگزيرة** (legzira, /photos/56c899be1eb3.jpg) — Walter Rodriguez, CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ALegzira_beach2.jpg
+- **الجديدة** (el-jadida-cistern, /photos/157be363811e.jpg) — M.Rais, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AForteresse_Jadida_01.JPG
+- **آسفي** (safi-medina, /photos/ecb78296d74f.jpg) — Mounir Neddi, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ASafi_city%2C_Morocco.jpg
+- **أزرو** (azrou, /photos/d4eaa91a1514.jpg) — Mounir Neddi, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AMosqu%C3%A9e_Nour_Azrou_2.jpg
+- **ميدلت** (midelt, /photos/46df5973d026.jpg) — Innocentsabroad at English Wikipedia, Public domain — https://commons.wikimedia.org/wiki/File%3AMidelt_ayachi.jpg
+- **زاكورة** (zagora, /photos/9fc90403aa31.jpg) — Stegop, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AZagora_56-2_(cropped).jpg
+- **أرفود** (erfoud, /photos/9a02870756a7.jpg) — Holger Uwe Schmitt, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3A%22Am_Rand_der_Sahara%22._01.jpg
+- **مولاي إدريس زرهون** (moulay-idriss, /photos/39e1318f02d7.jpg) — Ninara from Helsinki, Finland, CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3AMoulay_Idriss%2C_Maroc_(318486164).jpg
+- **سيدي إفني** (sidi-ifni, /photos/82971a99e5b0.jpg) — Mhobl, CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3ADie_wei%C3%9F-blauen_H%C3%A4user_von_Sidi_Ifni.jpg
+- **ميرلفت** (mirleft, /photos/30f21a45424f.jpg) — Anass Sedrati, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AMirleft_Center.jpg
+- **الداخلة** (dakhla-lagoon, /photos/2a179195c2ad.jpg) — YoTuT from United States, CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ADakhla%2C_Western_Sahara_(11).jpg
+- **العيون** (laayoune, /photos/5d5926835b5c.jpg) — Nassima Chahboun, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3A%D8%B4%D8%A7%D8%B1%D8%B9_%D9%85%D9%83%D8%A9_%D8%8C_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86.jpg
+- **الناظور** (nador-marchica, /photos/0cec0749d894.jpg) — Azzaddine Amjahed, CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ANador-Morocco-10.jpg
+- **الحسيمة** (al-hoceima, /photos/fe1f90e2646f.jpg) — Abdel Jalil Bouhaj, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AAl_Hoceima_Quemado.jpg
+- **وجدة** (oujda, /photos/ae4c721fa51e.jpg) — TheNegativeOne47, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AA_Church_next_a_to_a_Mosque.jpg
+- **تارودانت** (taroudant, /photos/fb77a4a5b20a.jpg) — Adville, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ATaroudannt_main_gate.jpg
+- **بني ملال** (beni-mellal, /photos/ad180e9476f0.jpg) — Mellali1999, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ABeni_Mellal_centre_of_city_january_2020.jpg
+- **القنيطرة** (kenitra, /photos/77e58fd13197.jpg) — RACHID BAYA, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AGare_des_trains_k%C3%A9nitra.jpg
+- **الوليدية** (oualidia, /photos/66799cdde344.jpg) — Yasmrf, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AOualidia_Lagoon_-_Morocco.jpg
+- **تنغير** (tinghir, /photos/a02aad02bda7.jpg) — János Korom Dr. &gt;17 Million views from Wien, Austria, CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File%3ATinghir_DSC_0092_(41274419445).jpg
+- **صفرو** (sefrou, /photos/e20ff6800773.jpg) — Bertramz, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ASefrou%2Cmedina.jpg
+- **العرائش** (larache, /photos/c97fc92cc443.jpg) — Ideophagous, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AOld_walls_in_Larache_6.jpg
+- **تيزنيت** (tiznit, /photos/d4684e3f6868.jpg) — Rachidourkia, CC0 — https://commons.wikimedia.org/wiki/File%3APalace_de_source_bleue.jpg
+- **تاليوين** (taliouine, /photos/f1231e7081b9.jpg) — Hydroxy from Zürich, Schweiz, CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File%3ATaliouine_Kasbah_(cropped).jpg

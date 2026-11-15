@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0b0f0e;
+  --color-surface: #131a17;
+  --color-edge: #26332e;
+  --color-sand: #efe6d6;
+  --color-terracotta: #e4704b;
+  --color-mint: #43c08d;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+  color-scheme: dark;
+}
+
+body {
+  font-family: var(--font-cairo), ui-sans-serif, system-ui, sans-serif;
+  background-color: var(--color-ink);
+  color: var(--color-sand);
+}
+
+/* Leaflet ships light-theme chrome; keep it legible on the dark panels. */
+.leaflet-container {
+  background: #0f1513;
+  font-family: inherit;
+}
+
+.leaflet-control-attribution {
+  background: rgba(11, 15, 14, 0.75) !important;
+  color: #9aa8a1;
+  font-size: 10px;
+  direction: ltr;
+}
+
+.leaflet-control-attribution a {
+  color: #7fd6b0;
+}
+
+.bladi-pin {
+  background: transparent;
+  border: 0;
+}
+
+/* MapillaryJS ships light chrome. Keep the attribution legible on the dark
+   street panel without letting it eat the mobile viewport. */
+/* MapillaryJS sets `position: relative` on the element it is given; make sure it
+   always fills the street panel regardless of the host's own layout classes. */
+.mapillary-viewer {
+  width: 100%;
+  height: 100%;
+}
+
+.mapillary-attribution-container {
+  font-family: inherit;
+  opacity: 0.72;
+  transition: opacity 150ms ease;
+}
+
+.mapillary-attribution-container:hover {
+  opacity: 1;
+}
+
+.mapillary-attribution-username,
+.mapillary-attribution-date {
+  color: #d8d0c1;
+  font-size: 10px;
+}
+
+/* The navigation arrows are the whole point of the mode: keep them above the
+   panel gradients the game draws on top of the viewer. */
+.mapillary-direction-container,
+.mapillary-sequence-container {
+  z-index: 5;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

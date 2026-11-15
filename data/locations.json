@@ -1,0 +1,742 @@
+{
+  "generatedAt": "2026-11-15T17:50:11.745Z",
+  "count": 46,
+  "locations": [
+    {
+      "id": "jemaa-el-fnaa",
+      "name": "جامع الفنا",
+      "region": "مراكش آسفي",
+      "hint": "البلاصة اللي فيها الحلايقية و الشماعين، و الناس كيتزاحمو فيها كل ليلة",
+      "lat": 31.6258,
+      "lng": -7.9894,
+      "photo": "/photos/896933718970.jpg",
+      "photoCredit": {
+        "author": "Boris Macek",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ADjemaa_el_Fna.jpg"
+      },
+      "file": "File:Djemaa el Fna.jpg",
+      "coordinateDriftKm": 0
+    },
+    {
+      "id": "koutoubia",
+      "name": "الكتبية",
+      "region": "مراكش آسفي",
+      "hint": "صومعة عالية كتشوفها من بعيد، فوسط مدينة حمرا",
+      "lat": 31.6241,
+      "lng": -7.9935,
+      "photo": "/photos/a992eff1c8e2.jpg",
+      "photoCredit": {
+        "author": "Miguel Discart",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AKoutoubia_2016-01-06_17-39-33_ILCE-6000_DSC01178_(45790345604).jpg"
+      },
+      "file": "File:Koutoubia 2016-01-06 17-39-33 ILCE-6000 DSC01178 (45790345604).jpg",
+      "coordinateDriftKm": 0
+    },
+    {
+      "id": "ait-benhaddou",
+      "name": "آيت بن حدو",
+      "region": "درعة تافيلالت",
+      "hint": "قصبة من الطين فوق هضبة، تصويرت فيها أفلام عالمية",
+      "lat": 31.0472,
+      "lng": -7.1289,
+      "photo": "/photos/f40c4411dd79.jpg",
+      "photoCredit": {
+        "author": "Petar Milošević",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AKsar_A%C3%AFt_Benhaddou%2C_Marocco_(%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93).jpg"
+      },
+      "file": "File:Ksar Aït Benhaddou, Marocco (أيت بن حدو، المغرب, ⴰⵢⵜ ⵃⴰⴷⴷⵓ).jpg",
+      "coordinateDriftKm": 0.3
+    },
+    {
+      "id": "chefchaouen",
+      "name": "شفشاون",
+      "region": "طنجة تطوان الحسيمة",
+      "hint": "الزرق كاين فكل جدار، مدينة صغيرة فالجبل",
+      "lat": 35.1714,
+      "lng": -5.2697,
+      "photo": "/photos/2839680fe5c9.jpg",
+      "photoCredit": {
+        "author": "Badr Rachadi",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AChefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg"
+      },
+      "file": "File:Chefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg",
+      "coordinateDriftKm": 0.6
+    },
+    {
+      "id": "fes-el-bali",
+      "name": "فاس البالي",
+      "region": "فاس مكناس",
+      "hint": "أقدم حي فالمغرب، فيه حومة العطارين و الجواجات",
+      "lat": 34.0625,
+      "lng": -4.9725,
+      "photo": "/photos/037395e589ff.jpg",
+      "photoCredit": {
+        "author": "Bjørn Christian Tørrissen",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AFes_Bab_Bou_Jeloud_2011.jpg"
+      },
+      "file": "File:Fes Bab Bou Jeloud 2011.jpg",
+      "coordinateDriftKm": 0.2
+    },
+    {
+      "id": "volubilis",
+      "name": "وليلي",
+      "region": "فاس مكناس",
+      "hint": "آثار رومانية وسط الزيتون",
+      "lat": 34.0711,
+      "lng": -5.5536,
+      "photo": "/photos/ec18e6ffe437.jpg",
+      "photoCredit": {
+        "author": "Subhros",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AVolubilis_Longshot_II.jpg"
+      },
+      "file": "File:Volubilis Longshot II.jpg",
+      "coordinateDriftKm": 0.4
+    },
+    {
+      "id": "bab-mansour",
+      "name": "باب المنصور",
+      "region": "فاس مكناس",
+      "hint": "باب ضخم مزوق بالزليج، فمدينة كانت عاصمة",
+      "lat": 33.8926,
+      "lng": -5.5646,
+      "photo": "/photos/65b7757afeb5.jpg",
+      "photoCredit": {
+        "author": "Robert Prazeres",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ABab_mansour_DSCF5811.jpg"
+      },
+      "file": "File:Bab mansour DSCF5811.jpg",
+      "coordinateDriftKm": 0.5
+    },
+    {
+      "id": "essaouira",
+      "name": "الصويرة",
+      "region": "مراكش آسفي",
+      "hint": "الريح و النوارس و قوارب زرقا",
+      "lat": 31.5131,
+      "lng": -9.7697,
+      "photo": "/photos/686ffff3b998.jpg",
+      "photoCredit": {
+        "author": "Holger Uwe Schmitt",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%22Ein_bemerkenswertes_historisches_Denkmal%22._16.jpg"
+      },
+      "file": "File:\"Ein bemerkenswertes historisches Denkmal\". 16.jpg",
+      "coordinateDriftKm": 0
+    },
+    {
+      "id": "tangier-medina",
+      "name": "طنجة",
+      "region": "طنجة تطوان الحسيمة",
+      "hint": "فين كيتلاقاو البحرين، و بزاف من الكتاب كتبو عليها",
+      "lat": 35.7767,
+      "lng": -5.8039,
+      "photo": "/photos/b6f4e729faba.jpg",
+      "photoCredit": {
+        "author": "Ifni95",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ATanger_cor.jpg"
+      },
+      "file": "File:Tanger cor.jpg",
+      "coordinateDriftKm": 1.4
+    },
+    {
+      "id": "hassan-ii-mosque",
+      "name": "مسجد الحسن الثاني",
+      "region": "الدار البيضاء سطات",
+      "hint": "صومعته كتطلع من البحر، فالمدينة الاقتصادية",
+      "lat": 33.6085,
+      "lng": -7.6327,
+      "photo": "/photos/23931f99a9a9.jpg",
+      "photoCredit": {
+        "author": "Elgaard",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ACasablancaSurf.jpg"
+      },
+      "file": "File:CasablancaSurf.jpg",
+      "coordinateDriftKm": 0
+    },
+    {
+      "id": "hassan-tower",
+      "name": "صومعة حسان",
+      "region": "الرباط سلا القنيطرة",
+      "hint": "صومعة ما كملاتش، و أعمدة فوسط ساحة كبيرة",
+      "lat": 34.0242,
+      "lng": -6.8228,
+      "photo": "/photos/2b13e15db589.jpg",
+      "photoCredit": {
+        "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would m",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ASW_SE_Top_Hassan_Tower_Morocco_Nov25_A7CR_08873.jpg"
+      },
+      "file": "File:SW SE Top Hassan Tower Morocco Nov25 A7CR 08873.jpg",
+      "coordinateDriftKm": 0
+    },
+    {
+      "id": "merzouga",
+      "name": "مرزوكة",
+      "region": "درعة تافيلالت",
+      "hint": "الرمال الذهبية و الجمال، الصحرا الكبيرة",
+      "lat": 31.0992,
+      "lng": -4.0117,
+      "photo": "/photos/c69860eb5710.jpg",
+      "photoCredit": {
+        "author": "Jorge Franganillo",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AMerzouga_2024.jpg"
+      },
+      "file": "File:Merzouga 2024.jpg",
+      "coordinateDriftKm": 0.1
+    },
+    {
+      "id": "todgha-gorge",
+      "name": "غور تودغى",
+      "region": "درعة تافيلالت",
+      "hint": "جوج حيوط صخرية عاليين و واد صغير فالوسط",
+      "lat": 31.59,
+      "lng": -5.59,
+      "photo": "/photos/47763eb14bb4.jpg",
+      "photoCredit": {
+        "author": "Holger Uwe Schmitt",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%22Ein_beeindruckendes_Naturwunder%22%2C_17.jpg"
+      },
+      "file": "File:\"Ein beeindruckendes Naturwunder\", 17.jpg",
+      "coordinateDriftKm": 0.2
+    },
+    {
+      "id": "dades-gorge",
+      "name": "غور دادس",
+      "region": "درعة تافيلالت",
+      "hint": "طريق كتدوز بين الصخور، فيه القشاب و النخيل",
+      "lat": 31.482,
+      "lng": -5.956,
+      "photo": "/photos/e7b0f9dcd01c.jpg",
+      "photoCredit": {
+        "author": "Holger Uwe Schmitt",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%22Spektakul%C3%A4re_Haarnadelkurven%22._04.jpg"
+      },
+      "file": "File:\"Spektakuläre Haarnadelkurven\". 04.jpg",
+      "coordinateDriftKm": 11.5
+    },
+    {
+      "id": "taourirt-kasbah",
+      "name": "قصبة تاوريرت",
+      "region": "درعة تافيلالت",
+      "hint": "قصبة كبيرة فالجنوب، بوابة الصحرا و السينما",
+      "lat": 30.92,
+      "lng": -6.8993,
+      "photo": "/photos/7d8585e3037b.jpg",
+      "photoCredit": {
+        "author": "Petar Milošević",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AKsar_of_Taourirt%2C_Ouarzazate%2C_Morocco_(%D9%82%D8%B5%D8%A8%D8%A9_%D8%AA%D8%A7%D9%88%D8%B1%D9%8A%D8%B1%D8%AA%2C_%E2%B5%9C%E2%B4%B0%E2%B5%A1%E2%B5%94%E2%B5%89%E2%B5%94%E2%B5%9C).jpg"
+      },
+      "file": "File:Ksar of Taourirt, Ouarzazate, Morocco (قصبة تاوريرت, ⵜⴰⵡⵔⵉⵔⵜ).jpg",
+      "coordinateDriftKm": 0.3
+    },
+    {
+      "id": "agadir-beach",
+      "name": "أكادير",
+      "region": "سوس ماسة",
+      "hint": "شاطئ طويل و مدينة كبيرة على المحيط",
+      "lat": 30.4214,
+      "lng": -9.5831,
+      "photo": "/photos/b048bb233512.jpg",
+      "photoCredit": {
+        "author": "Abdeaitali",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ASouth_view_sea_side_from_Kasbah_of_Agadir_Oufella_(cropped).jpg"
+      },
+      "file": "File:South view sea side from Kasbah of Agadir Oufella (cropped).jpg",
+      "coordinateDriftKm": 1.6
+    },
+    {
+      "id": "asilah",
+      "name": "أصيلة",
+      "region": "طنجة تطوان الحسيمة",
+      "hint": "مدينة بيضا صغيرة على البحر، فيها جداريات كل صيف",
+      "lat": 35.4667,
+      "lng": -6.0333,
+      "photo": "/photos/2d7edf060550.jpg",
+      "photoCredit": {
+        "author": "Robert Prazeres",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AAsilah_seafront.jpg"
+      },
+      "file": "File:Asilah seafront.jpg",
+      "coordinateDriftKm": 0.2
+    },
+    {
+      "id": "tetouan-medina",
+      "name": "تطوان",
+      "region": "طنجة تطوان الحسيمة",
+      "hint": "المدينة البيضا، قريبة من سبتة، فن أندلسي",
+      "lat": 35.5667,
+      "lng": -5.3667,
+      "photo": "/photos/21380c805426.jpg",
+      "photoCredit": {
+        "author": "Ideophagous",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ATetouan%2C_near_the_Medina_and_Qasba.jpg"
+      },
+      "file": "File:Tetouan, near the Medina and Qasba.jpg",
+      "coordinateDriftKm": 0.5
+    },
+    {
+      "id": "ifrane",
+      "name": "إفران",
+      "region": "فاس مكناس",
+      "hint": "الثلج و الأسود، غابات الأرز و بنايات كتشبه أوروبا",
+      "lat": 33.5333,
+      "lng": -5.1167,
+      "photo": "/photos/23756868332b.jpg",
+      "photoCredit": {
+        "author": "Bernard Gagnon",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AIfrane_lion.jpg"
+      },
+      "file": "File:Ifrane lion.jpg",
+      "coordinateDriftKm": 1.3
+    },
+    {
+      "id": "imlil",
+      "name": "إمليل",
+      "region": "مراكش آسفي",
+      "hint": "قرية فالجبل، منها كتطلع لتوبقال",
+      "lat": 31.1361,
+      "lng": -7.9192,
+      "photo": "/photos/a56c41d1e742.jpg",
+      "photoCredit": {
+        "author": "Erokhin",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AImlil_and_its_valley_and_way_to_Jbel_Toubkal_03.jpg"
+      },
+      "file": "File:Imlil and its valley and way to Jbel Toubkal 03.jpg",
+      "coordinateDriftKm": 0
+    },
+    {
+      "id": "oukaimeden",
+      "name": "أوكايمدن",
+      "region": "مراكش آسفي",
+      "hint": "محطة التزحلق، أعلى الطريق فالأطلس",
+      "lat": 31.205,
+      "lng": -7.86,
+      "photo": "/photos/67aff065505c.jpg",
+      "photoCredit": {
+        "author": "MED.BENALLA",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AOne_of_the_scenic_locations_of_the_Oukaimeden_village.JPG"
+      },
+      "file": "File:One of the scenic locations of the Oukaimeden village.JPG",
+      "coordinateDriftKm": 0
+    },
+    {
+      "id": "tafraout",
+      "name": "تافراوت",
+      "region": "سوس ماسة",
+      "hint": "صخور وردية و اللوز، فالأطلس الصغير",
+      "lat": 29.7167,
+      "lng": -8.9667,
+      "photo": "/photos/d8b8c1407ff6.jpg",
+      "photoCredit": {
+        "author": "rob Stoeltje",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ATafraoute.jpg"
+      },
+      "file": "File:Tafraoute.jpg",
+      "coordinateDriftKm": 0.5
+    },
+    {
+      "id": "legzira",
+      "name": "لگزيرة",
+      "region": "سوس ماسة",
+      "hint": "أقواس صخرية على البحر، و الرملة الحمرا",
+      "lat": 29.43,
+      "lng": -10.2,
+      "photo": "/photos/56c899be1eb3.jpg",
+      "photoCredit": {
+        "author": "Walter Rodriguez",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ALegzira_beach2.jpg"
+      },
+      "file": "File:Legzira beach2.jpg",
+      "coordinateDriftKm": 0
+    },
+    {
+      "id": "el-jadida-cistern",
+      "name": "الجديدة",
+      "region": "الدار البيضاء سطات",
+      "hint": "صهريج برتغالي و مدينة قديمة على المحيط",
+      "lat": 33.2333,
+      "lng": -8.5,
+      "photo": "/photos/157be363811e.jpg",
+      "photoCredit": {
+        "author": "M.Rais",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AForteresse_Jadida_01.JPG"
+      },
+      "file": "File:Forteresse Jadida 01.JPG",
+      "coordinateDriftKm": 2.6
+    },
+    {
+      "id": "safi-medina",
+      "name": "آسفي",
+      "region": "مراكش آسفي",
+      "hint": "الفخار و السردين، مدينة على المحيط",
+      "lat": 32.2833,
+      "lng": -9.2333,
+      "photo": "/photos/ecb78296d74f.jpg",
+      "photoCredit": {
+        "author": "Mounir Neddi",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ASafi_city%2C_Morocco.jpg"
+      },
+      "file": "File:Safi city, Morocco.jpg",
+      "coordinateDriftKm": 1.8
+    },
+    {
+      "id": "azrou",
+      "name": "أزرو",
+      "region": "فاس مكناس",
+      "hint": "غابة الأرز و القردة، فالأطلس المتوسط",
+      "lat": 33.4417,
+      "lng": -5.2247,
+      "photo": "/photos/d4eaa91a1514.jpg",
+      "photoCredit": {
+        "author": "Mounir Neddi",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AMosqu%C3%A9e_Nour_Azrou_2.jpg"
+      },
+      "file": "File:Mosquée Nour Azrou 2.jpg",
+      "coordinateDriftKm": 0.9
+    },
+    {
+      "id": "midelt",
+      "name": "ميدلت",
+      "region": "درعة تافيلالت",
+      "hint": "فوسط الطريق مابين فاس و الراشيدية، التفاح و الجبل",
+      "lat": 32.68,
+      "lng": -4.73,
+      "photo": "/photos/46df5973d026.jpg",
+      "photoCredit": {
+        "author": "Innocentsabroad at English Wikipedia",
+        "licence": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File%3AMidelt_ayachi.jpg"
+      },
+      "file": "File:Midelt ayachi.jpg",
+      "coordinateDriftKm": 1.5
+    },
+    {
+      "id": "zagora",
+      "name": "زاكورة",
+      "region": "درعة تافيلالت",
+      "hint": "آخر مدينة قبل الصحرا الكبيرة",
+      "lat": 30.3306,
+      "lng": -5.8381,
+      "photo": "/photos/9fc90403aa31.jpg",
+      "photoCredit": {
+        "author": "Stegop",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AZagora_56-2_(cropped).jpg"
+      },
+      "file": "File:Zagora 56-2 (cropped).jpg",
+      "coordinateDriftKm": 0.2
+    },
+    {
+      "id": "erfoud",
+      "name": "أرفود",
+      "region": "درعة تافيلالت",
+      "hint": "مدينة الحفريات و النخيل، قريبة من الرمال",
+      "lat": 31.4361,
+      "lng": -4.2328,
+      "photo": "/photos/9a02870756a7.jpg",
+      "photoCredit": {
+        "author": "Holger Uwe Schmitt",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%22Am_Rand_der_Sahara%22._01.jpg"
+      },
+      "file": "File:\"Am Rand der Sahara\". 01.jpg",
+      "coordinateDriftKm": 0.2
+    },
+    {
+      "id": "moulay-idriss",
+      "name": "مولاي إدريس زرهون",
+      "region": "فاس مكناس",
+      "hint": "بلاصة صغيرة على جبل، فيها ضريح و الزيتون",
+      "lat": 34.0542,
+      "lng": -5.5272,
+      "photo": "/photos/39e1318f02d7.jpg",
+      "photoCredit": {
+        "author": "Ninara from Helsinki, Finland",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AMoulay_Idriss%2C_Maroc_(318486164).jpg"
+      },
+      "file": "File:Moulay Idriss, Maroc (318486164).jpg",
+      "coordinateDriftKm": 0.4
+    },
+    {
+      "id": "sidi-ifni",
+      "name": "سيدي إفني",
+      "region": "كلميم واد نون",
+      "hint": "مدينة صغيرة على المحيط، كانت إسبانية، بنايات فوق الصخرة",
+      "lat": 29.3833,
+      "lng": -10.1667,
+      "photo": "/photos/82971a99e5b0.jpg",
+      "photoCredit": {
+        "author": "Mhobl",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ADie_wei%C3%9F-blauen_H%C3%A4user_von_Sidi_Ifni.jpg"
+      },
+      "file": "File:Die weiß-blauen Häuser von Sidi Ifni.jpg",
+      "coordinateDriftKm": 0.5
+    },
+    {
+      "id": "mirleft",
+      "name": "ميرلفت",
+      "region": "كلميم واد نون",
+      "hint": "قرية هادية على البحر، الشواطئ و الريف",
+      "lat": 29.6081,
+      "lng": -9.9698,
+      "photo": "/photos/30f21a45424f.jpg",
+      "photoCredit": {
+        "author": "Anass Sedrati",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AMirleft_Center.jpg"
+      },
+      "file": "File:Mirleft Center.jpg",
+      "coordinateDriftKm": 6.6
+    },
+    {
+      "id": "dakhla-lagoon",
+      "name": "الداخلة",
+      "region": "الداخلة وادي الذهب",
+      "hint": "الجنوب بزاف، البوغاز و الناس اللي كيركبو الموج",
+      "lat": 23.7081,
+      "lng": -15.9456,
+      "photo": "/photos/2a179195c2ad.jpg",
+      "photoCredit": {
+        "author": "YoTuT from United States",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ADakhla%2C_Western_Sahara_(11).jpg"
+      },
+      "file": "File:Dakhla, Western Sahara (11).jpg",
+      "coordinateDriftKm": 1.8
+    },
+    {
+      "id": "laayoune",
+      "name": "العيون",
+      "region": "العيون الساقية الحمراء",
+      "hint": "كبرى مدن الصحرا، الساحة الكبيرة",
+      "lat": 27.15,
+      "lng": -13.1989,
+      "photo": "/photos/5d5926835b5c.jpg",
+      "photoCredit": {
+        "author": "Nassima Chahboun",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%D8%B4%D8%A7%D8%B1%D8%B9_%D9%85%D9%83%D8%A9_%D8%8C_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86.jpg"
+      },
+      "file": "File:شارع مكة ، مدينة العيون.jpg",
+      "coordinateDriftKm": 0.1
+    },
+    {
+      "id": "nador-marchica",
+      "name": "الناظور",
+      "region": "الشرق",
+      "hint": "بحيرة كبيرة و الجبال، على البحر الأبيض المتوسط",
+      "lat": 35.1667,
+      "lng": -2.9333,
+      "photo": "/photos/0cec0749d894.jpg",
+      "photoCredit": {
+        "author": "Azzaddine Amjahed",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ANador-Morocco-10.jpg"
+      },
+      "file": "File:Nador-Morocco-10.jpg",
+      "coordinateDriftKm": 0.5
+    },
+    {
+      "id": "al-hoceima",
+      "name": "الحسيمة",
+      "region": "طنجة تطوان الحسيمة",
+      "hint": "الشاطئ الأزرق و الريف، حديقة وطنية فالبحر",
+      "lat": 35.2472,
+      "lng": -3.9322,
+      "photo": "/photos/fe1f90e2646f.jpg",
+      "photoCredit": {
+        "author": "Abdel Jalil Bouhaj",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AAl_Hoceima_Quemado.jpg"
+      },
+      "file": "File:Al Hoceima Quemado.jpg",
+      "coordinateDriftKm": 0.4
+    },
+    {
+      "id": "oujda",
+      "name": "وجدة",
+      "region": "الشرق",
+      "hint": "الشرق، قريبة من الحدود، ساحة كبيرة",
+      "lat": 34.6867,
+      "lng": -1.9114,
+      "photo": "/photos/ae4c721fa51e.jpg",
+      "photoCredit": {
+        "author": "TheNegativeOne47",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AA_Church_next_a_to_a_Mosque.jpg"
+      },
+      "file": "File:A Church next a to a Mosque.jpg",
+      "coordinateDriftKm": 0.8
+    },
+    {
+      "id": "taroudant",
+      "name": "تارودانت",
+      "region": "سوس ماسة",
+      "hint": "السور الكبير و الأسواق، مدينة النحاس",
+      "lat": 30.471,
+      "lng": -8.8806,
+      "photo": "/photos/fb77a4a5b20a.jpg",
+      "photoCredit": {
+        "author": "Adville",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ATaroudannt_main_gate.jpg"
+      },
+      "file": "File:Taroudannt main gate.jpg",
+      "coordinateDriftKm": 1
+    },
+    {
+      "id": "beni-mellal",
+      "name": "بني ملال",
+      "region": "بني ملال خنيفرة",
+      "hint": "شلالات و جبل تاسميت، فوسط البلاد",
+      "lat": 32.3394,
+      "lng": -6.3608,
+      "photo": "/photos/ad180e9476f0.jpg",
+      "photoCredit": {
+        "author": "Mellali1999",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ABeni_Mellal_centre_of_city_january_2020.jpg"
+      },
+      "file": "File:Beni Mellal centre of city january 2020.jpg",
+      "coordinateDriftKm": 0.1
+    },
+    {
+      "id": "kenitra",
+      "name": "القنيطرة",
+      "region": "الرباط سلا القنيطرة",
+      "hint": "فين كيتصب واد سبو فالمحيط، الطيور و القصب",
+      "lat": 34.25,
+      "lng": -6.5833,
+      "photo": "/photos/77e58fd13197.jpg",
+      "photoCredit": {
+        "author": "RACHID BAYA",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AGare_des_trains_k%C3%A9nitra.jpg"
+      },
+      "file": "File:Gare des trains kénitra.jpg",
+      "coordinateDriftKm": 1.2
+    },
+    {
+      "id": "oualidia",
+      "name": "الوليدية",
+      "region": "الدار البيضاء سطات",
+      "hint": "بحيرة و المحار و الطيور، على المحيط",
+      "lat": 32.7333,
+      "lng": -9.0167,
+      "photo": "/photos/66799cdde344.jpg",
+      "photoCredit": {
+        "author": "Yasmrf",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AOualidia_Lagoon_-_Morocco.jpg"
+      },
+      "file": "File:Oualidia Lagoon - Morocco.jpg",
+      "coordinateDriftKm": 1.3
+    },
+    {
+      "id": "tinghir",
+      "name": "تنغير",
+      "region": "درعة تافيلالت",
+      "hint": "نخيل بزاف، و الغور قريب",
+      "lat": 31.5147,
+      "lng": -5.5328,
+      "photo": "/photos/a02aad02bda7.jpg",
+      "photoCredit": {
+        "author": "János Korom Dr. &gt;17 Million views from Wien, Austria",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ATinghir_DSC_0092_(41274419445).jpg"
+      },
+      "file": "File:Tinghir DSC 0092 (41274419445).jpg",
+      "coordinateDriftKm": 0.3
+    },
+    {
+      "id": "sefrou",
+      "name": "صفرو",
+      "region": "فاس مكناس",
+      "hint": "مدينة صغيرة، الكرز و الأطلس",
+      "lat": 33.83,
+      "lng": -4.83,
+      "photo": "/photos/e20ff6800773.jpg",
+      "photoCredit": {
+        "author": "Bertramz",
+        "licence": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ASefrou%2Cmedina.jpg"
+      },
+      "file": "File:Sefrou,medina.jpg",
+      "coordinateDriftKm": 0
+    },
+    {
+      "id": "larache",
+      "name": "العرائش",
+      "region": "طنجة تطوان الحسيمة",
+      "hint": "قرب ليكسوس، المدينة القديمة على المحيط",
+      "lat": 35.1833,
+      "lng": -6.15,
+      "photo": "/photos/c97fc92cc443.jpg",
+      "photoCredit": {
+        "author": "Ideophagous",
+        "licence": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AOld_walls_in_Larache_6.jpg"
+      },
+      "file": "File:Old walls in Larache 6.jpg",
+      "coordinateDriftKm": 0.7
+    },
+    {
+      "id": "tiznit",
+      "name": "تيزنيت",
+      "region": "سوس ماسة",
+      "hint": "مدينة الفضة و السور، فسوس",
+      "lat": 29.7167,
+      "lng": -9.7167,
+      "photo": "/photos/d4684e3f6868.jpg",
+      "photoCredit": {
+        "author": "Rachidourkia",
+        "licence": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File%3APalace_de_source_bleue.jpg"
+      },
+      "file": "File:Palace de source bleue.jpg",
+      "coordinateDriftKm": 2.3
+    },
+    {
+      "id": "taliouine",
+      "name": "تاليوين",
+      "region": "سوس ماسة",
+      "hint": "الزعفران و الأركان، فالأطلس الصغير",
+      "lat": 30.5328,
+      "lng": -7.9256,
+      "photo": "/photos/f1231e7081b9.jpg",
+      "photoCredit": {
+        "author": "Hydroxy from Zürich, Schweiz",
+        "licence": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ATaliouine_Kasbah_(cropped).jpg"
+      },
+      "file": "File:Taliouine Kasbah (cropped).jpg",
+      "coordinateDriftKm": 0.3
+    }
+  ]
+}
